@@ -1,3 +1,0 @@
-
-Inorder to analyze the gender bias in deep fake videos we have trained a deep learning model that classifies a video based on the gender. The aim is to analyze the number of females and males videos correctly predicted and those which are misclassified we have studied their features and observed that it classifies based on stereotypical features of the deepfake videos.
-For training purpose and building the classification model, we have considered 500 videos from the 1000 videos of Deepfakes. Based on these videos we built our classification model that classifies a video being male and female.
